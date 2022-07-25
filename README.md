@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmuneeburahman
-- 👀 I’m interested in web development and networking
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision.
+- 🌱 I’m currently learning Deep Learning for Computer Vision.
 - 📫 How to reach me ...
   gmail: mmuneeburahman@gmail.com
 <!---
